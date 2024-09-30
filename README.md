@@ -1,5 +1,7 @@
 # Simulación de lo Clásico a lo Cuántico
 
+## Introducción 
+El taller de "Simulación de lo Clásico a lo Cuántico" tiene como objetivo evidenciar la mecánica cuántica por medio de simulaciones.
 ## Taller
 El archivo `.py` se encuentra en la ruta `ClassicToQuantum/TallerClasicToQuantum.ipynb`.
 
